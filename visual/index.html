@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Calculadora Visual - JDMG</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🧮 Calculadora Visual - JDMG</h1>
+
+    <div class="inputs">
+      <input type="number" id="numero1" placeholder="Número 1" />
+      <input type="number" id="numero2" placeholder="Número 2" />
+    </div>
+
+    <div class="buttons">
+      <button onclick="operar('suma')">SUMAR</button>
+      <button onclick="operar('resta')">RESTAR</button>
+      <button onclick="operar('multiplicacion')">MULTIPLICAR</button>
+      <button onclick="operar('division')">DIVIDIR</button>
+    </div>
+
+    <div class="resultado">
+      <h2>Resultado:</h2>
+      <p id="resultado">-</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

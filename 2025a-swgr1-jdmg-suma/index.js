@@ -1,5 +1,3 @@
-// index.js
-
 exports.suma = (a, b) => {
   const numeroUno = Number(a);
   const numeroDos = Number(b);
