@@ -1,0 +1,26 @@
+{
+  "name": "2025a-swgr1-jdmg-resta",
+  "version": "1.0.0",
+  "description": "Realiza la resta de dos números",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sin tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janhzarmacias/calculadora-npm-jdmg.git"
+  },
+  "keywords": [
+    "resta",
+    "calculadora",
+    "aritmetica",
+    "matematica",
+    "jdmg"
+  ],
+  "author": "Janhzar Daniel Macias Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janhzarmacias/calculadora-npm-jdmg/issues"
+  },
+  "homepage": "https://github.com/janhzarmacias/calculadora-npm-jdmg#readme"
+}

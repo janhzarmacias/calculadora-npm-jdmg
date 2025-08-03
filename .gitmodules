@@ -1,0 +1,3 @@
+[submodule "submodulos/jdmg-modulo-division"]
+	path = submodulos/jdmg-modulo-division
+	url = https://github.com/janhzarmacias/jdmg-modulo-division.git

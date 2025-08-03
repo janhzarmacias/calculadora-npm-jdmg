@@ -1,0 +1,26 @@
+{
+  "name": "2025a-swgr1-jdmg-suma",
+  "version": "1.0.0",
+  "description": "Realiza la suma de dos números",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sin tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janhzarmacias/calculadora-npm-jdmg.git"
+  },
+  "author": "Janhzar Daniel Macias Garcia",
+  "license": "ISC",
+  "keywords": [
+    "suma",
+    "calculadora",
+    "aritmetica",
+    "matematica",
+    "jdmg"
+  ],
+  "bugs": {
+    "url": "https://github.com/janhzarmacias/calculadora-npm-jdmg/issues"
+  },
+  "homepage": "https://github.com/janhzarmacias/calculadora-npm-jdmg#readme"
+}
